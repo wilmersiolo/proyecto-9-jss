@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+*{
+  font-family: "Roboto Slab", serif;
+}
+
+.btn-primary {
+    transition: transform 0.1s ease-in-out; /* Suaviza la transición */
+  }
+  
+  .btn-primary:active {
+    transform: scale(1.1); /* Aumenta el tamaño del botón al presionar */
+  }
+
+  .letra{
+    font-family: "Roboto Slab", serif;
+  }
